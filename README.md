@@ -47,3 +47,7 @@ Is a practice of optimizing your website’s technical elements to ensure that s
 - Impressions 
 
 ![Paid search variable decision](/paid%20search%20decision%20variables.JPG)
+
+![Why bid in important](/why%20bid%20is%20important.JPG)
+
+![Why landing page is important](/why%20landing%20page%20is%20important.JPG)
