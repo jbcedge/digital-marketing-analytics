@@ -12,7 +12,7 @@
 
 ## Analytics of SEO
 ### On-Page SEO
-Is a practice of optimizing individual web pages including the content and HTML source code of a page.
+Is a practice of optimizing individual web pages including the content and HTML source code of a page.<br>
 **Relevance to search intent** <br>
 **Competitive intelligence:**
 - other highly ranked keywords
