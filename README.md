@@ -46,4 +46,4 @@ Is a practice of optimizing your website’s technical elements to ensure that s
 - Cost-per-Action (CPA)
 - Impressions 
 
-![alt text](paid search decision variables.JPG)
+![Paid search variable decision](paid search decision variables.JPG)
