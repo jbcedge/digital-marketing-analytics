@@ -80,3 +80,4 @@ What can be tested?
 
 ![Hypothesis Testing](/hypothesis%20testing.JPG)
 
+## Module 3: Machine Learning
