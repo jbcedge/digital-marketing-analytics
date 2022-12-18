@@ -19,7 +19,31 @@ Is a practice of optimizing individual web pages including the content and HTML 
 - page organization
 - content structure
 - linkable content
+- use third party tool as SEMRUSH
 
-**Off-Page SEO** is any effort taken outside of a website including backlinks, online mentions, and social signals to improve its search engine rankings.
+### Off-Page SEO 
+Is any effort taken outside of a website including backlinks, online mentions, and social signals to improve its search engine rankings.<br>
+Tools: MOZ
+<br>
+**Backlinks**<br>
+- Volume
+- Authority
 
-**Technical SEO** is a practice of optimizing your website’s technical elements to ensure that search engines can crawl, index, and render your web pages correctly.
+### Technical SEO 
+Is a practice of optimizing your website’s technical elements to ensure that search engines can crawl, index, and render your web pages correctly.
+- Unique Content
+- Site Structure and Navigation
+- Site Speed - PageSpeed Insights
+
+## Analytics of Paid Search
+### Key Performance Indicator (KPI) or Metrics
+- Click-through-rate (CTR)
+- Clicks, Cost-per-click (CPC) 
+- Transaction Conversion Rate (TCR) 
+- Conversions
+- Earnings
+- Earnings-per-click (EPC)
+- Cost-per-Action (CPA)
+- Impressions 
+
+![alt text](paid search decision variables.JPG)
